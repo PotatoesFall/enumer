@@ -1,4 +1,4 @@
-module github.com/alvaroloes/enumer
+module github.com/PotatoesFall/enumer
 
 go 1.17 // bumped to later version
 
